@@ -65,7 +65,7 @@ gallery.html
     </div>
 
     <div class="signature">
-      <p>✨ DONE BY <strong>YASHWANTH K</strong> (212224040369) ✨</p>
+      <p>✨ DONE BY <strong> KALPANAA BABU TM </strong> (212224040369) ✨</p>
     </div>
   </div>
 
